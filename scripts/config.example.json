@@ -16,5 +16,7 @@
 		"steam": 	"steam",
 		"wsus": 	"windows",
 		"xboxlive": 	"windows"
+		"cloud": 	"generic"
+
 	}
 }
