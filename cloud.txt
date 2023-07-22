@@ -1,3 +1,5 @@
+youtube.com
+*.googlevideo.com
 console.cloud.google.com
 *.powerdns.com
 000webhost.com
@@ -24,7 +26,6 @@ ads.google.com
 adservice.google.com
 adsrvr.org
 adsymptotic.com
-ai.google
 ai.google.com
 akagtm.org
 akahost.net
