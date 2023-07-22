@@ -122,5 +122,10 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
+		{
+			"name": "cloud",
+			"description": "CDN for cloud",
+			"domain_files": ["cloud.txt"]
+		}
 	]
 }
