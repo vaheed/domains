@@ -1,3 +1,5 @@
+console.cloud.google.com
+*.powerdns.com
 000webhost.com
 3docean.net
 6sense.com
