@@ -1,5 +1,5 @@
 *.cloud.google.com	
-hub.docker.com
+*.auryc.com
 poe.com
 accounts.google.com	
 ads.google.com	
@@ -370,10 +370,12 @@ djangoproject.com
 dlang.org	
 dlsdm.com	
 doc.vmware.com	
-docker.com	
+docker.com
+*.docker.com	
 docker.elastic.co	
 docker.i	
 docker.io	
+*.docker.io	
 docs.datastax.com	
 docs.telerik.com	
 dodi-repacks.site	
@@ -1043,6 +1045,7 @@ split.io
 splunk.com	
 spoti.fi	
 spotify.co	
+spotify.com	
 *.spotify.com	
 *.spotifycdn.com	
 *.spotifycdn.net	
