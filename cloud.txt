@@ -169,8 +169,8 @@ appspot.com
 arcgis.com	
 arenanetworks.com	
 artbees.net	
-atlassian.com	
-atlassian.net	
+*.atlassian.com	
+*.atlassian.net	
 audiojungle.net	
 audiorelay.net	
 auth0.com	
