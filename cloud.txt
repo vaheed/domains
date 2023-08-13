@@ -277,7 +277,7 @@ cloudflare.com
 cloudflare-dns.com	
 cloudflareinsights.com	
 cloudflarestatus.com	
-cloudfront.net	
+*.cloudfront.net	
 cloudfunctions.net	
 cloudinary.com	
 cncfps.com	
