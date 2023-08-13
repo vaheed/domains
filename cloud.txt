@@ -1,4 +1,5 @@
 *.cloud.google.com	
+hub.docker.com
 poe.com
 accounts.google.com	
 ads.google.com	
@@ -1042,9 +1043,9 @@ split.io
 splunk.com	
 spoti.fi	
 spotify.co	
-spotify.com	
-spotifycdn.com	
-spotifycdn.net	
+*.spotify.com	
+*.spotifycdn.com	
+*.spotifycdn.net	
 spotifycharts.com	
 spotifycodes.com	
 spotifyjobs.com	
