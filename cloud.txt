@@ -370,11 +370,9 @@ djangoproject.com
 dlang.org	
 dlsdm.com	
 doc.vmware.com	
-docker.com
 *.docker.com	
 docker.elastic.co	
 docker.i	
-docker.io	
 *.docker.io	
 docs.datastax.com	
 docs.telerik.com	
@@ -1045,7 +1043,6 @@ split.io
 splunk.com	
 spoti.fi	
 spotify.co	
-spotify.com	
 *.spotify.com	
 *.spotifycdn.com	
 *.spotifycdn.net	
