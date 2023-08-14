@@ -1,4 +1,6 @@
 *.cloud.google.com	
+anthropic.com
+claude.ai
 *.auryc.com
 poe.com
 accounts.google.com	
