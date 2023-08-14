@@ -69,10 +69,6 @@ tagmanager.google.com
 thinkwithgoogle.com	
 time.google.com	
 withgoogle.com
-*.akamaihd.net	
-*.cdn.cloudflare.net	
-*.akamaihd.net.edgesuite.net	
-*.akamaized.net	
 *.envato.com	
 *.f2pool.com	
 *.fastpic.ru	
