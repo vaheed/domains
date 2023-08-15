@@ -2,7 +2,6 @@
 anthropic.com
 claude.ai
 *.auryc.com
-poe.com
 accounts.google.com	
 ads.google.com	
 adservice.google.com	
