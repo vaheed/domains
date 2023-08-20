@@ -1,4 +1,5 @@
 *.cloud.google.com	
+*.mirror.jellyfin.org
 anthropic.com
 claude.ai
 *.auryc.com
