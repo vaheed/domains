@@ -1235,11 +1235,11 @@ wpsheeteditor.com
 wrappixel.com	
 wtfismyip.com	
 wupdates.com	
-xbox.com	
-xboxab.com	
-xboxab.net	
-xboxlive.com	
-xboxservices.com	
+*.xbox.com	
+*.xboxab.com	
+*.xboxab.net	
+*.xboxlive.com	
+*.xboxservices.com	
 xero.com	
 xiaomi.com	
 xilinx.com	
