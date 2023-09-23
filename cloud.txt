@@ -1,4 +1,6 @@
 *.cloud.google.com	
+you.com
+bard.google.com
 accounts.google.com	
 ai.google.com	
 analytics.google.com	
