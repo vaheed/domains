@@ -1,4 +1,5 @@
 *.cloud.google.com	
+www.powershellgallery.com
 you.com
 bard.google.com
 accounts.google.com	
