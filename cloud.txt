@@ -110,6 +110,7 @@ cdn.mxpnl.com
 cdn.polyfill.io	
 cdn.shortpixel.ai	
 chat.openai.com	
+auth0.openai.com
 check-host.net	
 *.cisco.com	
 code.jquery.com	
