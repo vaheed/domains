@@ -450,7 +450,7 @@ fastly-status.com
 fbcdn.net	
 fbsbx.com	
 fedoramagazine.org	
-fedoraproject.org	
+*.fedoraproject.org	
 feedburner.com	
 feedly.com	
 ffxiv.com	
