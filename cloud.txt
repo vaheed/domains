@@ -241,7 +241,7 @@ cdn.polyfill.io
 cdn.shortpixel.ai	
 cdnpk.net	
 cdw.ca	
-centos.org	
+*.centos.org	
 cgaxis.com	
 cgtrader.com	
 chaquo.com	
@@ -250,7 +250,7 @@ chatgptonline.net
 check-host.net	
 chocolatey.org	
 chromium.org	
-cirros-cloud.net	
+*.cirros-cloud.net	
 cisco.com	
 clamav.com	
 clamav.net	
@@ -267,7 +267,7 @@ cloudflare.com
 cloudflare-dns.com	
 cloudflareinsights.com	
 cloudflarestatus.com	
-cloudfront.net	
+*.cloudfront.net	
 cloudfunctions.net	
 cloudinary.com	
 cncfps.com	
