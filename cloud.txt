@@ -1,4 +1,5 @@
 *.cloud.google.com	
+*.cloudflaressl.com
 *.akamaiedge.net
 accounts.google.com	
 ads.google.com	
@@ -364,6 +365,7 @@ docker.com
 docker.elastic.co	
 docker.i	
 docker.io	
+*.docker.io	
 docs.datastax.com	
 docs.telerik.com	
 dodi-repacks.site	
@@ -918,7 +920,6 @@ redis.io
 registry.k8s.io	
 registry.npmjs.org	
 registry.terraform.io	
-registry-1.docker.io	
 releases.hashicorp.com	
 remove.bg	
 ren-x.com	
