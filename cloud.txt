@@ -514,7 +514,6 @@ getliner.com
 gettyimages.com	
 git.githubusercontent.com	
 git.tookan.tech	
-github.com	
 github.io	
 github-api-cache.unyson.io	
 githubapp.com	
