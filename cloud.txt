@@ -698,7 +698,7 @@ mailchimp.com
 mailenable.com	
 mailgun.com	
 mandrillapp.com	
-mariadb.com	
+*.mariadb.com	
 mariadb.org	
 material.io	
 mathworks.com	
