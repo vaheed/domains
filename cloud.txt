@@ -1,3 +1,4 @@
+*.coollabs.io
 *.cloud.google.com	
 *.cloudflaressl.com
 *.akamaiedge.net
