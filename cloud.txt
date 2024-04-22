@@ -1,4 +1,5 @@
 *.ollama.com
+ollama.com
 guce.yahoo.com
 github.com
 *.coollabs.io
