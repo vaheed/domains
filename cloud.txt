@@ -648,7 +648,7 @@ jsdelivr.net
 jtvnw.net	
 justpaste.it	
 jwplayer.com	
-k8s.io	
+*.k8s.io	
 kaggle.com	
 kaggle.io	
 kaggle.net	
@@ -923,7 +923,6 @@ redhat.com
 redhat.io	
 redis.com	
 redis.io	
-registry.k8s.io	
 registry.npmjs.org	
 registry.terraform.io	
 releases.hashicorp.com	
