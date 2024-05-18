@@ -123,7 +123,9 @@ alicdn.com
 alldatasheet.com	
 alldebrid.com	
 almalinux.org	
-alpinelinux.org	
+alpinelinux.org
+*.alpinelinux.org
+*.fastly.net
 altera.com	
 altn.com	
 amazeservice.net	
