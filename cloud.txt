@@ -1,3 +1,4 @@
+*.gv2.com
 *.pvp.net.cdn.cloudflare.net
 *.pvp.net
 *.riotgames.com
