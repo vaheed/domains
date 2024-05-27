@@ -1,5 +1,6 @@
+*.newrelic.com
 *.gv2.com
-*.pvp.net.cdn.cloudflare.net
+*.cloudflare.net
 *.pvp.net
 *.riotgames.com
 *.ls-apple.com.akadns.net
