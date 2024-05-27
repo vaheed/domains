@@ -1,3 +1,8 @@
+*.pvp.net
+*.riotgames.com
+*.ls-apple.com.akadns.net
+*.riotcdn.net
+*.rdatasrv.net
 *.ollama.com
 ollama.com
 guce.yahoo.com
