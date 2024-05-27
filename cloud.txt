@@ -1,3 +1,4 @@
+*.pvp.net.cdn.cloudflare.net
 *.pvp.net
 *.riotgames.com
 *.ls-apple.com.akadns.net
