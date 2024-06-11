@@ -1,3 +1,4 @@
+api.groq.com
 *.leagueoflegends.co.kr
 *.leagueoflegends.com
 *.lolstatic.com
