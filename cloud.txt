@@ -1,3 +1,5 @@
+*.icloud.com
+*.cdn-apple.com
 *.apple.com
 api.groq.com
 *.leagueoflegends.co.kr
