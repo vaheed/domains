@@ -1,3 +1,4 @@
+*.zabbix.com
 *.icloud.com
 *.cdn-apple.com
 *.apple.com
